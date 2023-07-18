@@ -1,10 +1,10 @@
 ---
-title: "Camera Geometry"
+title: "Computer Vision Basics"
 datePublished: Sun Jun 04 2023 17:36:07 GMT+0000 (Coordinated Universal Time)
 cuid: clihpfiwe000809l78po8c1jc
-slug: camera-geometry
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685899997209/ec20cac9-2dd4-4a72-8f23-e385ec806465.png
-tags: computer-vision, camerageometry
+slug: computer-vision-basics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689655571205/baee732b-b616-4db1-8446-bcd6e6d04598.png
+tags: computer-vision
 
 ---
 
