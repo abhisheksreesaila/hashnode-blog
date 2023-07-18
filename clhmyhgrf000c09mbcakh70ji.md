@@ -1,11 +1,14 @@
 ---
-title: "Remote Jupyter Notebook Setup"
+title: "Notebook Setup for Data Science"
 datePublished: Sun May 14 2023 05:08:43 GMT+0000 (Coordinated Universal Time)
 cuid: clhmyhgrf000c09mbcakh70ji
-slug: remote-jupyter-notebook-setup
+slug: notebook-setup-for-data-science
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689660086055/b3dc87f8-2a3c-41b2-940e-28a7a4683e8c.png
 tags: jupyter-notebook
 
 ---
+
+The following are the steps to set up a remote jupyter notebook server that one can connect locally to run their machine learning.
 
 The steps are as follows
 
@@ -13,6 +16,7 @@ The steps are as follows
 
 * CREATE a file *jupyter-startup.sh*
     
+
 ```bash
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate YOUR_CONDA_VIRTUAL_ENVIRONMENT
