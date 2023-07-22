@@ -3,7 +3,7 @@ title: "Computer Vision Basics"
 datePublished: Sun Jun 04 2023 17:36:07 GMT+0000 (Coordinated Universal Time)
 cuid: clihpfiwe000809l78po8c1jc
 slug: computer-vision-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690046279940/6891f697-f0dc-4ccc-9cef-140d2162c629.gif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690046387154/b80a59fe-abcb-4bda-8839-4de48eea06ad.png
 tags: computer-vision
 
 ---
