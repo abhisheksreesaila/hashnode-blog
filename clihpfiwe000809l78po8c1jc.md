@@ -3,12 +3,14 @@ title: "Computer Vision Basics"
 datePublished: Sun Jun 04 2023 17:36:07 GMT+0000 (Coordinated Universal Time)
 cuid: clihpfiwe000809l78po8c1jc
 slug: computer-vision-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689655571205/baee732b-b616-4db1-8446-bcd6e6d04598.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690046279940/6891f697-f0dc-4ccc-9cef-140d2162c629.gif
 tags: computer-vision
 
 ---
 
 ![](https://abhisheksreesaila.github.io/blog/images/stereo/pinhole.png align="left")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689660509277/674fd076-6753-4a7e-9e8c-dbe8e7ead87c.png align="left")
 
 Before we go explain this in detail let's clarify the terms
 
@@ -44,7 +46,7 @@ $$x_i/f = x_o/z$$
 
 $$y_i/f = y_o/z$$
 
-This is the <mark> standard pinhole camera equation</mark>. The equation has a few interesting properties.
+This is the <mark>standard pinhole camera equation</mark>. The equation has a few interesting properties.
 
 ## Pinhole Properties
 
