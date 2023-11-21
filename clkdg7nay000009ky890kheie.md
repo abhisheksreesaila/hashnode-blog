@@ -4,7 +4,8 @@ seoDescription: "Intuition behind Kalman Filter"
 datePublished: Sat Jul 22 2023 03:26:23 GMT+0000 (Coordinated Universal Time)
 cuid: clkdg7nay000009ky890kheie
 slug: kalman-filter
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689918890340/f9b993bf-ae5e-4d14-8be8-94940fcb8433.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700599118912/852a7b89-d938-4f2a-9ae2-4d8c0f1578bc.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700599131444/651dddd2-5789-4dc8-bc7b-79d7526da635.png
 tags: kalman-filter
 
 ---
