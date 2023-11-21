@@ -6,6 +6,7 @@ datePublished: Sat Jul 22 2023 16:16:23 GMT+0000 (Coordinated Universal Time)
 cuid: clke7pv5i000709l81hll1yde
 slug: building-a-super-human-driving-agent
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597860493/9f669c5a-de34-4434-9d87-d015f6485bd5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597882464/9358b0de-d362-4ab4-bbe5-b3767aac2c2a.png
 tags: openpilot, open-source-self-driving
 
 ---
