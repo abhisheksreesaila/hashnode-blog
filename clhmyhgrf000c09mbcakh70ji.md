@@ -3,7 +3,7 @@ title: "Notebook Setup for Data Science"
 datePublished: Sun May 14 2023 05:08:43 GMT+0000 (Coordinated Universal Time)
 cuid: clhmyhgrf000c09mbcakh70ji
 slug: notebook-setup-for-data-science
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689660086055/b3dc87f8-2a3c-41b2-940e-28a7a4683e8c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700599207049/dacc7435-fcae-45c1-99a7-bf20932af133.png
 tags: jupyter-notebook
 
 ---
