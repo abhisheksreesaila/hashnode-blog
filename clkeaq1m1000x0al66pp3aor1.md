@@ -6,6 +6,7 @@ datePublished: Sat Jul 22 2023 17:40:30 GMT+0000 (Coordinated Universal Time)
 cuid: clkeaq1m1000x0al66pp3aor1
 slug: how-does-openpilot-control-a-car
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597830677/47ec04b0-584f-41fb-916e-5423d23e4fbb.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597907078/d26381ca-5b3a-4c57-b5db-8945226dfaef.png
 tags: self-driving-car, openpilot
 
 ---
