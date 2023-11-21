@@ -5,7 +5,7 @@ seoDescription: "how to control the car using openpilot"
 datePublished: Sat Jul 22 2023 17:40:30 GMT+0000 (Coordinated Universal Time)
 cuid: clkeaq1m1000x0al66pp3aor1
 slug: how-does-openpilot-control-a-car
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690042458644/bd4bed35-bf7c-4010-8bfe-09e487301024.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597360784/b79bc2b3-9b12-4c9e-b404-c91f93028b44.png
 tags: self-driving-car, openpilot
 
 ---
