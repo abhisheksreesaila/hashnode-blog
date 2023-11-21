@@ -5,7 +5,7 @@ seoDescription: "research at comma.ai as a part of their comma-con 2021"
 datePublished: Sat Jul 22 2023 16:16:23 GMT+0000 (Coordinated Universal Time)
 cuid: clke7pv5i000709l81hll1yde
 slug: building-a-super-human-driving-agent
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597123063/f7a2d7f0-e92d-4c84-a905-db89cfe059b5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700597860493/9f669c5a-de34-4434-9d87-d015f6485bd5.png
 tags: openpilot, open-source-self-driving
 
 ---
